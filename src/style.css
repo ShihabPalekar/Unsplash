@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    text-align: center;
+    align-content: center;
+    color: rgb(39, 9, 3);
+    background-image: radial-gradient( circle 993px at 0.5% 50.5%,  rgba(137,171,245,0.37) 0%, rgba(245,247,252,1) 100.2% );
+}
+
+.header {
+    display: inline-flex;
+    padding: 0.75rem;
+    width: 80rem;
+}
+
+.logo {
+    font-style: italic;
+    padding-right: 64rem;
+    font-family: fantasy;
+}
+
+.header-links {
+    display: inline-flex;
+    font-family: cursive;
+}
+
+.header-links > h3 {
+    padding: 0 0.75rem;
+}
+
+img {
+    margin: 0.50em;
+}
